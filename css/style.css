@@ -343,7 +343,7 @@ top
   padding-top: 83px;
   position: relative;
   max-height: 648px;
-  background: url(/img/mv/mv@2x.png) center center/cover;
+  background: url(./img/mv/mv@2x.png) center center/cover;
 }
 
 @media screen and (max-width: 767px) {
@@ -351,7 +351,7 @@ top
     height: 667px;
     padding-top: 68px;
     max-height: 667px;
-    background: url(/img/mv/mv@2x.png) center left/cover;
+    background: url(./img/mv/mv@2x.png) center left/cover;
   }
 }
 
@@ -1145,7 +1145,7 @@ comments
 Q&A
 ***************************/
 .QA-class {
-  background: url(/img/sunyu-kim-EGZJzD-p92s-unsplash.jpg) center center/cover;
+  background: url(./img/sunyu-kim-EGZJzD-p92s-unsplash.jpg) center center/cover;
   padding-bottom: 89px;
   position: relative;
   height: 100%;
@@ -1407,7 +1407,7 @@ access
 contact
 ***************************/
 .contact-class {
-  background: url(/img/alex-blajan-4EDf2Agrm4E-unsplash.jpg) center center;
+  background: url(./img/alex-blajan-4EDf2Agrm4E-unsplash.jpg) center center;
   padding: 60px 120px;
 }
 
@@ -1418,7 +1418,7 @@ contact
 }
 
 .contact-tittle-box {
-  background: url(/img/contact1/contact1@2x.png);
+  background: url(./img/contact1/contact1@2x.png);
   color: #FFFFFF;
   text-align: center;
   padding: 56px 0;
@@ -1728,7 +1728,7 @@ input:-webkit-autofill {
   left: 0;
   width: 20px;
   height: 25px;
-  background: transparent url(/img/icon/checkbox.svg) no-repeat center center/contain;
+  background: transparent url(./img/icon/checkbox.svg) no-repeat center center/contain;
   -webkit-transition: opacity 0.3s ease 0s;
   transition: opacity 0.3s ease 0s;
   opacity: 0;
@@ -1885,7 +1885,7 @@ footer {
 }
 
 .totop a {
-  background: transparent url("/img/icon/totop.svg") 0% 0% no-repeat padding-box;
+  background: transparent url("./img/icon/totop.svg") 0% 0% no-repeat padding-box;
   position: fixed;
   right: 50px;
   bottom: 50px;
